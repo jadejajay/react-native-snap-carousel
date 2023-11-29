@@ -5,7 +5,7 @@
     "main": "src/index.js",
     "repository": {
         "type": "git",
-        "url": "github.com/meliorence/react-native-snap-carousel"
+        "url": "github.com/jadejajay/react-native-snap-carousel"
     },
     "keywords": [
         "react",
